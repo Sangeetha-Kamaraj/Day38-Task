@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Conference Room",
+    "seats": 10,
+    "amenities": [
+      "Projector",
+      "Whiteboard"
+    ],
+    "pricePerHour": 50
+  },
+  {
+    "id": 2,
+    "name": "Conference Room",
+    "seats": 20,
+    "amenities": [
+      "Projector",
+      "Whiteboard"
+    ],
+    "pricePerHour": 60
+  }
+]

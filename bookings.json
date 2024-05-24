@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1
+  },
+  {
+    "id": 2,
+    "roomId": 1,
+    "customerName": "Sangeetha",
+    "date": "2024-05-20",
+    "startTime": "10:00",
+    "endTime": "12:00"
+  },
+  {
+    "id": 3,
+    "roomId": 1,
+    "customerName": "Gokul",
+    "date": "2024-05-21",
+    "startTime": "11:00",
+    "endTime": "12:00"
+  }
+]
